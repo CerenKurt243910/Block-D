@@ -1,0 +1,7 @@
+1.  Intro (until problem statement): Maks Burchard
+
+2. Preparation/details (tickers, legal aspects, target users): Filip
+
+3. Dashboard/UI, Demo video: Zofia
+
+4. Model, Success metrics: Ceren

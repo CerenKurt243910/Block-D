@@ -1,0 +1,35 @@
+
+Assumption Test Results for: q1
+Shapiro-Wilk p-value (Version A): 0.0000
+Shapiro-Wilk p-value (Version B): 0.0784
+At least one distribution is not normal.
+Levene's Test p-value: 0.0178
+Variances are not equal.
+
+Assumption Test Results for: q2
+Shapiro-Wilk p-value (Version A): 0.0001
+Shapiro-Wilk p-value (Version B): 0.0142
+At least one distribution is not normal.
+Levene's Test p-value: 0.3853
+Variances are equal.
+
+Assumption Test Results for: q3
+Shapiro-Wilk p-value (Version A): 0.0001
+Shapiro-Wilk p-value (Version B): 0.0019
+At least one distribution is not normal.
+Levene's Test p-value: 0.5743
+Variances are equal.
+
+Assumption Test Results for: q4
+Shapiro-Wilk p-value (Version A): 0.0000
+Shapiro-Wilk p-value (Version B): 0.0082
+At least one distribution is not normal.
+Levene's Test p-value: 0.5223
+Variances are equal.
+
+Assumption Test Results for: q5
+Shapiro-Wilk p-value (Version A): 0.0000
+Shapiro-Wilk p-value (Version B): 0.0392
+At least one distribution is not normal.
+Levene's Test p-value: 0.5773
+Variances are equal.
